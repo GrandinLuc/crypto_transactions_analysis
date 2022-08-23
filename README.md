@@ -25,7 +25,7 @@ npm run start
 ### Docker build
 
 ```bash
-docker build -t crypto_transactions_analysis
+docker build -t crypto_transactions_analysis .
 ```
 
 ### Docker run
