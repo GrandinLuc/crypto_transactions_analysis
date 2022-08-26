@@ -4,6 +4,12 @@ This progam is made to analyse data from a transaction set that could get return
 
 ## Useful commands
 
+### Install the dependencies (only dev-dependencies were used, this is vanilla Typescript)
+
+```bash
+npm run dev
+```
+
 ### Start in development mode
 
 ```bash
